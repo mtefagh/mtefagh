@@ -4,8 +4,8 @@ Apart from my involvement in COBRA and ProtPy, I organized a nationwide optimiza
 I am particularly passionate about the concept of open science and decentralized science (DeSci). I have discovered that collective efforts within the scientific community align perfectly with my past experiences and interests.
 
 ### Skills
-- **General:** Mathematical optimization, Data science, Graph theory
-- **Languages:** Julia, Python, Matlab
+- **General:** Mathematical optimization, Large-scale data analysis, Graph theory, Reinforcement learning
+- **Languages:** Julia, Python (NumPy, Pandas, SciPy, TensorFlow, PyTorch), Matlab
 - **Familiar:** R, Java, HTML
 - **Tools:** Jupyter, Git, LaTeX
 
